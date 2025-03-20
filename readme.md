@@ -3,8 +3,11 @@
 
 
 ## Contienido
-- src/ -> Contiene el notebook con el analisis exploratorio y la carpeta data
-- data/ -> contiene el archivo csv con nuestros datos
+- src/ -> Contiene un archivo jupyter notebook llamado "Analisis.ipynb" con el analisis exploratorio y la carpeta data
+- data/ -> contiene tres archivos csv:
+    - Sales "Data.csv" -> Es nuestro set de datos inicial con datos de ventas
+    - "Sales_Data_Final" -> Es nuestro set de datos final luego del analisis exploratorio
+    - "rules.csv" -> Contiene los datos sobre el market basket analysis, nos dice qué productos se compran juntos.
 - requirements.txt -> contiene las librerias necesarias para el proyecto
 
 ## Cómo usar
