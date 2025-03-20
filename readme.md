@@ -52,8 +52,8 @@ El dataset contiene información sobre transacciones de productos realizadas en 
 ###  Carga y Exploración Inicial
 
 - Se cargaron los datos y se realizó un análisis estadístico básico.
-- Se detectaron y trataron valores atípicos.
-- Se decidió omitir el análisis temporal ya que los datos abarcan solo un año.
+- Se detectaron valores atípicos pero no fueron tratados, ya que corresponden a precios unitarios, totales y unidades. No consideramos que sean datos extremos o errones, solamente es la naturaleza de los datos y si los imputaramos o modificaramos serían datos incorrectos. 
+- Se decidió omitir el análisis temporal ya que los datos abarcan solo un año y nuestro enfoque es hacia los productos.
 
 ### Análisis Univariado
 
