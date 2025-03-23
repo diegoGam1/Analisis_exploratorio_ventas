@@ -13,7 +13,7 @@
 
 ## Cómo usar
 - 1 Clona el repositorio
-    - git clone https://github.com/diegoGam1/Proyecto_Final_Makeit.git
+    - git clone https://github.com/diegoGam1/Analisis_exploratorio_ventas.git
 - 2  Instala las dependencias
     - pip install -r requirements.txt
 
