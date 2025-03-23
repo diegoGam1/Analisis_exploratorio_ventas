@@ -23,7 +23,7 @@
 ##  Descripción del proyecto
 
 
-    Este proyecto de analisis exploratorio de datos (EDA) busca extraer información clave sobre las ventas y rentabilidad de productos, así como identificar patrones de compra en un dataset de transacciones para optimizar el manejo de inventarios y mejorar las estrategias de marketing para aumentar las ventas. La finalidad es proporcionar insights que puedan ayudar en la toma de decisiones estratégicas basadas en datos.
+Este proyecto de analisis exploratorio de datos (EDA) busca extraer información clave sobre las ventas y rentabilidad de productos, así como identificar patrones de compra en un dataset de transacciones para optimizar el manejo de inventarios y mejorar las estrategias de marketing para aumentar las ventas. La finalidad es proporcionar insights que puedan ayudar en la toma de decisiones estratégicas basadas en datos.
 
 
 
@@ -87,8 +87,8 @@ El dataset contiene información sobre transacciones de productos realizadas en 
 
 ##  Recomendaciones Estratégicas
 
-- 1. Optimizar inventarios asegurando suficiente stock de los productos más vendidos en las regiones con mayor demanda.
-- 2. Ajustar estrategias de precios y promociones para los productos con menor rentabilidad.
-- 3. Implementar ofertas y paquetes de productos combinados basados en el análisis de compras conjuntas.
-- 4. Personalizar estrategias de marketing según los patrones de consumo en cada estado.
+- 1 Optimizar inventarios asegurando suficiente stock de los productos más vendidos en las regiones con mayor demanda.
+- 2 Ajustar estrategias de precios y promociones para los productos con menor rentabilidad.
+- 3 Implementar ofertas y paquetes de productos combinados basados en el análisis de compras conjuntas.
+- 4 Personalizar estrategias de marketing según los patrones de consumo en cada estado.
  
