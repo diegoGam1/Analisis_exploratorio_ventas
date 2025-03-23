@@ -16,13 +16,18 @@
     - git clone https://github.com/diegoGam1/Proyecto_Final_Makeit.git
 - 2  Instala las dependencias
     - pip install -r requirements.txt
-# Análisis Exploratorio de Datos (EDA)
 
-##  Descripción del Proyecto
 
-Este analisis exploratorio de datos (EDA) busca extraer información clave sobre las ventas y rentabilidad de productos, así como identificar patrones de compra en un dataset de transacciones. La finalidad es proporcionar insights que puedan ayudar en la toma de decisiones estratégicas basadas en datos.
+# Resumen del proyecto
 
-##  Objetivos
+##  Descripción del proyecto
+
+
+    Este proyecto de analisis exploratorio de datos (EDA) busca extraer información clave sobre las ventas y rentabilidad de productos, así como identificar patrones de compra en un dataset de transacciones para optimizar el manejo de inventarios y mejorar las estrategias de marketing para aumentar las ventas. La finalidad es proporcionar insights que puedan ayudar en la toma de decisiones estratégicas basadas en datos.
+
+
+
+##  Objetivos especificos
 
 1. Identificar los productos más vendidos y aquellos con menor rendimiento en términos de ventas.
 2. Determinar los productos que generan más ingresos y cuáles tienen el menor margen de rentabilidad.
@@ -44,6 +49,7 @@ El dataset contiene información sobre transacciones de productos realizadas en 
 - Month	= Mes de la compra
 - Day = dia de la compra
 - Sales = Total de la compra
+- Season = Estación del año de la compra
 - City = ciudad de la compra
 - State = estado de la compra
 - Hour = Hora de la compra
@@ -67,8 +73,8 @@ El dataset contiene información sobre transacciones de productos realizadas en 
 - Se analizaron los productos más rentables en cada estado.
 - Se generaron gráficos de Pareto para visualizar las ventas e ingresos por producto.
 
-###  Market Basket Analysis
-
+###  Patrones de compra
+- Se realizo un market basket analysis
 - Se utilizó el modelo apriori para detectar patrones de compra conjunta.
 - Se identificaron los productos que se venden juntos con mayor frecuencia.
 
@@ -81,8 +87,8 @@ El dataset contiene información sobre transacciones de productos realizadas en 
 
 ##  Recomendaciones Estratégicas
 
-1. Optimizar inventarios asegurando suficiente stock de los productos más vendidos en las regiones con mayor demanda.
-2. Ajustar estrategias de precios y promociones para los productos con menor rentabilidad.
-3. Implementar ofertas y paquetes de productos combinados basados en el análisis de compras conjuntas.
-4. Personalizar estrategias de marketing según los patrones de consumo en cada estado.
+- 1. Optimizar inventarios asegurando suficiente stock de los productos más vendidos en las regiones con mayor demanda.
+- 2. Ajustar estrategias de precios y promociones para los productos con menor rentabilidad.
+- 3. Implementar ofertas y paquetes de productos combinados basados en el análisis de compras conjuntas.
+- 4. Personalizar estrategias de marketing según los patrones de consumo en cada estado.
  
